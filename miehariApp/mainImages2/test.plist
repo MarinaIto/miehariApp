@@ -209,10 +209,82 @@
 				<key>名前</key>
 				<string>Ferrari</string>
 				<key>画像</key>
-				<string>Ferrari.jpg</string>
+				<string>Ferrari.logo.png</string>
 				<key>コメント</key>
 				<string>ほげげ</string>
 			</dict>
+            <key>Lamborghini</key>
+            <dict>
+                <key>名前</key>
+                <string>Lamborghini</string>
+                <key>画像</key>
+                <string>Lamborghini.Logo.png</string>
+                <key>コメント</key>
+                <string>ほげげ</string>
+            </dict>
+            <key>Bugatti</key>
+            <dict>
+                <key>名前</key>
+                <string>Bugatti</string>
+                <key>画像</key>
+                <string>Bugatti.logo.png</string>
+                <key>コメント</key>
+                <string>ほげげ</string>
+            </dict>
+            <key>Alfa Romeo</key>
+            <dict>
+                <key>名前</key>
+                <string>Alfa Romeo</string>
+                <key>画像</key>
+                <string>AlfaRomeo.png</string>
+                <key>コメント</key>
+                <string>ほげげ</string>
+            </dict>
+            <key>Diatto</key>
+            <dict>
+                <key>名前</key>
+                <string>Diatto</string>
+                <key>画像</key>
+                <string>Diatto.logo.jpg</string>
+                <key>コメント</key>
+                <string>ほげげ</string>
+            </dict>
+            <key>Maserati S.p.A.</key>
+            <dict>
+                <key>名前</key>
+                <string>Maserati S.p.A.</string>
+                <key>画像</key>
+                <string>Maserati.logo.png</string>
+                <key>コメント</key>
+                <string>ほげげ</string>
+            </dict>
+            <key>FIAT</key>
+            <dict>
+                <key>名前</key>
+                <string>FIAT</string>
+                <key>画像</key>
+                <string>Fiat.logo.png</string>
+                <key>コメント</key>
+                <string>ほげげ</string>
+            </dict>
+            <key>Lancia</key>
+            <dict>
+                <key>名前</key>
+                <string>Lancia</string>
+                <key>画像</key>
+                <string>Lancia.logo.png</string>
+                <key>コメント</key>
+                <string>ほげげ</string>
+            </dict>
+            <key>Bertone</key>
+            <dict>
+                <key>名前</key>
+                <string>Bertone</string>
+                <key>画像</key>
+                <string>Bertone.logo.jpg</string>
+                <key>コメント</key>
+                <string>ほげげ</string>
+            </dict>
 		</dict>
 		<key>UK</key>
 		<dict>
@@ -221,28 +293,109 @@
 				<key>名前</key>
 				<string>Jaguar</string>
 				<key>画像</key>
-				<string>Jaguar.jpg</string>
+				<string>Jaguar.logo.png</string>
 				<key>コメント</key>
 				<string>ほげほげ</string>
 			</dict>
-			<key>Bentley</key>
+			<key>Bentley Motors</key>
 			<dict>
 				<key>名前</key>
-				<string>Bentley</string>
+				<string>Bentley Motors</string>
 				<key>画像</key>
-				<string>Bentley.jpg</string>
+				<string>Bentley.logo.jpg</string>
 				<key>コメント</key>
 				<string></string>
 			</dict>
-			<key>Lotus Car</key>
+			<key>Lotus Cars</key>
 			<dict>
 				<key>名前</key>
-				<string>Lotus Car</string>
+				<string>Lotus Cars</string>
 				<key>画像</key>
-				<string>Lotus.jpg</string>
+				<string>Lotus.logo.jpg</string>
 				<key>コメント</key>
 				<string></string>
 			</dict>
+            <key>Rolls Royce</key>
+            <dict>
+                <key>名前</key>
+                <string>Rolls Royce</string>
+                <key>画像</key>
+                <string>RollsRoyce.logo.png</string>
+                <key>コメント</key>
+                <string>ほげげ</string>
+            </dict>
+            <key>Land Rover</key>
+            <dict>
+                <key>名前</key>
+                <string>Land Rover</string>
+                <key>画像</key>
+                <string>LandRover.Logo.png</string>
+                <key>コメント</key>
+                <string>ほげげ</string>
+            </dict>
+            <key>MG Cars</key>
+            <dict>
+                <key>名前</key>
+                <string>MG Cars</string>
+                <key>画像</key>
+                <string>MG.Logo.png</string>
+                <key>コメント</key>
+                <string>ほげげ</string>
+            </dict>
+            <key>Alfa Romeo</key>
+            <dict>
+                <key>名前</key>
+                <string>Alfa Romeo</string>
+                <key>画像</key>
+                <string>AlfaRomeo.png</string>
+                <key>コメント</key>
+                <string>ほげげ</string>
+            </dict>
+            <key>Diatto</key>
+            <dict>
+                <key>名前</key>
+                <string>Diatto</string>
+                <key>画像</key>
+                <string>Diatto.logo.jpg</string>
+                <key>コメント</key>
+                <string>ほげげ</string>
+            </dict>
+            <key>Maserati S.p.A.</key>
+            <dict>
+                <key>名前</key>
+                <string>Maserati S.p.A.</string>
+                <key>画像</key>
+                <string>Maserati.logo.png</string>
+                <key>コメント</key>
+                <string>ほげげ</string>
+            </dict>
+            <key>FIAT</key>
+            <dict>
+                <key>名前</key>
+                <string>FIAT</string>
+                <key>画像</key>
+                <string>Fiat.logo.png</string>
+                <key>コメント</key>
+                <string>ほげげ</string>
+            </dict>
+            <key>Lancia</key>
+            <dict>
+                <key>名前</key>
+                <string>Lancia</string>
+                <key>画像</key>
+                <string>Lancia.logo.png</string>
+                <key>コメント</key>
+                <string>ほげげ</string>
+            </dict>
+            <key>Bertone</key>
+            <dict>
+                <key>名前</key>
+                <string>Bertone</string>
+                <key>画像</key>
+                <string>Bertone.logo.jpg</string>
+                <key>コメント</key>
+                <string>ほげげ</string>
+            </dict>
 		</dict>
 		<key>US</key>
 		<dict>

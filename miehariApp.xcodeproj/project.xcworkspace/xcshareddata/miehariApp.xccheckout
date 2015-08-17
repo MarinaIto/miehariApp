@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>6053BB98-9404-4E25-9ADF-8B54A09017A6</string>
+	<key>IDESourceControlProjectName</key>
+	<string>project</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>D818D28F01BCE7BC1200BA8A85C337070D947C65</key>
+		<string>https://github.com/MarinaIto/miehariApp.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>miehariApp.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>D818D28F01BCE7BC1200BA8A85C337070D947C65</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/MarinaIto/miehariApp.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>D818D28F01BCE7BC1200BA8A85C337070D947C65</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>D818D28F01BCE7BC1200BA8A85C337070D947C65</string>
+			<key>IDESourceControlWCCName</key>
+			<string>miehariApp</string>
+		</dict>
+	</array>
+</dict>
+</plist>

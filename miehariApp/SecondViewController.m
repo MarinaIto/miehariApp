@@ -67,6 +67,7 @@
     [_nationalCarsKeyAry exchangeObjectAtIndex:1
                      withObjectAtIndex:4];
     
+     _secondTableView.sectionHeaderHeight = 50;
     
     
     
@@ -125,7 +126,7 @@
         
     } else if (_appDelegate.iPath == 1){
         
-        title = @"時計ブランド";
+        title = @"";
     }
     return title;
 }
